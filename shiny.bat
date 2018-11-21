@@ -21,7 +21,7 @@ for /f "usebackq tokens=*" %%a in (`ipconfig ^| findstr /i "ipv4"`) do (
     )
   )
 rem add additional commands here
-pushd "C:\Users\Roy\Documents\R_board2"
+pushd "C:\"
 echo Running Shiny
 echo ip: %ip%:8964
 Rscript --vanilla shiny.R %ip%
