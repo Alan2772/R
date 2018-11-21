@@ -1,4 +1,4 @@
-# For Window OS,
+## For Windows
 
 open `Shiny.bat` with text Editor
 place the folder location at line 24, `pushd ""`
