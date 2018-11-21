@@ -16,5 +16,5 @@ Open browser and type the url in command line
 done
 
 
-if still cannot run it, open shiny.R in Rstudio and 
-make sure the package have installed.
+If cannot run it, open `shiny.R` in Rstudio and Run
+make sure the packages are installed.
